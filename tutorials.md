@@ -170,6 +170,19 @@ $ git push origin master
 Onde **_master_** é o antigo nome da branch padrão, hoje migrando para **_main_**.
 
 
+## Referências utilizadas:
+
+[Começando - Instalando o Git - Oficial](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+
+
+[Verificar se há chaves SSH - Oficial](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
+
+[Gerar uma nova chave SSH e adicioná-la ao ssh-agent - Oficial](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Como configurar o SSH no Github? - Adriana Lima Shikasho](https://dev.to/dxwebster/como-conectar-ao-github-com-chaves-ssh-1i41)
+
+[Criando chave SSH - Git e Github para Iniciantes - Willian Justen](https://www.youtube.com/watch?v=7YVQLZp1jb0)
+
 
 
 
